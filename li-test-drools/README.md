@@ -1,0 +1,5 @@
+http://www.drools.org/learn/documentation.html
+
+引导规则引擎会话: KieServices/KieContainer/KieSession的职责，KieSession代表了一个具有指定配置和一系列规则的规则引擎的运行时实例
+
+kmodule.xml:这个文件将被用于配置如何加载规则引擎中项目中定义的规则.drl标识。这样它就可以被当作一个规则文件,文件的抬头与java文件相似，分别是package和import

@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /li-test
+spring:
+  application:
+    name: li-test
+logging:
+  config: classpath:spring-logback.xml
